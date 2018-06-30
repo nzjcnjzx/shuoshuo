@@ -1,0 +1,27 @@
+{
+  "name": "shuoshuo",
+  "version": "1.0.0",
+  "description": "说说系统",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nzjcnjzx/shuoshuo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nzjcnjzx/shuoshuo/issues"
+  },
+  "homepage": "https://github.com/nzjcnjzx/shuoshuo#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "formidable": "^1.2.1",
+    "gm": "^1.23.1",
+    "mongodb": "^3.1.0"
+  }
+}
